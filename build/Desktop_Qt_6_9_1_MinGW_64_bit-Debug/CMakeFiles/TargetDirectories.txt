@@ -1,0 +1,3 @@
+D:/temp/QT_proj/Qt_first_project/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/Qt_first_project.dir
+D:/temp/QT_proj/Qt_first_project/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+D:/temp/QT_proj/Qt_first_project/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir

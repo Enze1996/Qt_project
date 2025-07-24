@@ -1,0 +1,25 @@
+# ninja log v7
+35	203	7750623092683127	D:/temp/QT_proj/Qt_first_project/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	75db25fadce2b097
+208	1274	7750623103435543	Qt_first_project_autogen/timestamp	57f9f56679d571ed
+208	1274	7750623103435543	Qt_first_project_autogen/mocs_compilation.cpp	57f9f56679d571ed
+208	1274	7750623103435543	D:/temp/QT_proj/Qt_first_project/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/Qt_first_project_autogen/timestamp	57f9f56679d571ed
+208	1274	7750623103435543	D:/temp/QT_proj/Qt_first_project/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/Qt_first_project_autogen/mocs_compilation.cpp	57f9f56679d571ed
+1275	2987	7750623105086425	CMakeFiles/Qt_first_project.dir/Qt_first_project_autogen/mocs_compilation.cpp.obj	153abc08904ad098
+257	2000	7750627345058148	CMakeFiles/Qt_first_project.dir/main.cpp.obj	34ae9cd6c7bf8283
+419	2107	7750627346678898	CMakeFiles/Qt_first_project.dir/mainwindow.cpp.obj	36cb7b6f6bb54fbc
+3320	3903	7750623125540937	Qt_first_project.exe	e24cdb95dc52678e
+209	2726	7750628339556447	build.ninja	7fc7f92a86d1b27f
+209	2726	7750628339536518	D:/temp/QT_proj/Qt_first_project/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/cmake_install.cmake	7fc7f92a86d1b27f
+42	282	7750627331591564	clean	1987470d294a1c89
+30	257	7750627344758828	ui_mainwindow.h	1878217f1537f713
+30	257	7750627344758828	D:/temp/QT_proj/Qt_first_project/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/ui_mainwindow.h	1878217f1537f713
+50	292	7750628653062759	clean	1987470d294a1c89
+20	262	7750628897448113	clean	1987470d294a1c89
+26	323	7750628966722717	moc_mainwindow.cpp	10cce38eb22dec79
+26	323	7750628966722717	D:/temp/QT_proj/Qt_first_project/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/moc_mainwindow.cpp	10cce38eb22dec79
+37	336	7750628966612134	ui_mainwindow.h	1878217f1537f713
+37	336	7750628966612134	D:/temp/QT_proj/Qt_first_project/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/ui_mainwindow.h	1878217f1537f713
+336	2148	7750628966903205	CMakeFiles/Qt_first_project.dir/main.cpp.obj	34ae9cd6c7bf8283
+517	2285	7750628968706348	CMakeFiles/Qt_first_project.dir/mainwindow.cpp.obj	36cb7b6f6bb54fbc
+731	2427	7750628970847458	CMakeFiles/Qt_first_project.dir/moc_mainwindow.cpp.obj	735a3f4e0136a647
+2427	3053	7750628987812875	Qt_first_project.exe	14f768319f5fc9f

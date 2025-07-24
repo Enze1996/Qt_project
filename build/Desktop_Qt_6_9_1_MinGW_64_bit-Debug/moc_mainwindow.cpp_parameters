@@ -1,0 +1,4 @@
+-DWIN32
+-o
+D:/temp/QT_proj/Qt_first_project/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/moc_mainwindow.cpp
+D:/temp/QT_proj/Qt_first_project/mainwindow.h
